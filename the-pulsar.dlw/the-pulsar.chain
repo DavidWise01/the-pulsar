@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 553
+slug  : the-pulsar
+seal  : bba4f63950844fd2c2f2f1057698b9b2fd6fd3df3851fc7c1a20486695afd223
+prev  : 57e030aa8b73547d6c3d82755a39ea32db7eb04ddfd37522b4c5f8b75c0723cb
+link  : fbe2e48c0afd93d1243c9196f741a4abe02f1e84c0071248a33e679ff270ac45
+head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
